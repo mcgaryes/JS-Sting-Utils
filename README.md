@@ -1,4 +1,4 @@
-**\* I am no longer actively supporting this repository. Feel free to fork it if you like**
+**\* I am no longer actively supporting this repository. Feel free to fork it if you like.**
 
 JS-Sting-Utils
 ==============
